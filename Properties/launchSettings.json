@@ -1,0 +1,10 @@
+{
+  "profiles":
+  {
+    "VLC playlist creator":
+    {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
